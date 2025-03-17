@@ -10,3 +10,13 @@ FEATURES:
 • The prototype has an LCD screen that shows the water level of the fish tank and the time and date.
 
 • There are notifications via text message for when the system is replacing the water and if the water tank for the old water is full.
+
+
+MAIN COMPONENTS:
+
+• Arduino Uno
+
+• SIM800V2 5V WIRELESS GSM GRPS MODULE
+
+• Relay
+
